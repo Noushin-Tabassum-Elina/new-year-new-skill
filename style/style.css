@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    font-family: Work Sans;
+}
+/* header styles starts */
+.header{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-size: contain;
+}
+.banner{
+    text-align: right;
+    right: 20px;
+    top: 8px;
+    
+}
+.headerh1{
+    color:aliceblue;
+    font-size: 55px;
+    padding-top: 30px;
+}
+
+.headerP{
+    margin-top: 30px;
+    color: aliceblue;
+}
+.button-one{
+    color: #005FAC;
+    font-size: 20px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+}
+/* header style ends */
+
