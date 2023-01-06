@@ -41,7 +41,6 @@
 
 .failure{
     padding: 150px;
-    /* margin-top: 40px; */
 }
 /* failure list starts */
 .container-one{
@@ -128,6 +127,50 @@
 }
 
 /* call now section ends */
+
+/* Extra for bonus mark */
+.extra{
+   margin: 60px;
+}
+.extrah1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container{
+    display: flex;
+    gap: 15px;
+    box-shadow: #707070;
+    justify-content: center;
+}
+
+.contain1{
+    height: 300px;
+    width: 300px;
+    background:  rgba(79, 157, 166, 0.1);
+    padding: 5px 10px;
+    box-shadow: #707070;
+
+}
+.contain2{
+    height: 300px;
+    width: 300px;
+    background:rgba(255, 89, 89, 0.1);
+    padding: 5px 10px;
+
+}
+.contain3{
+    height: 300px;
+    width: 300px;
+    background: #FFF4D6;
+    padding: 5px 10px;
+
+}
+
+.contain1 img , .contain2 img, .contain3 img{
+
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
 
 /* footer styles starts */
 
