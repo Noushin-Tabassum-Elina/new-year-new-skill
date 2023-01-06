@@ -36,3 +36,64 @@
 }
 /* header style ends */
 
+/* main styles starts */
+
+.failure{
+    padding: 150px;
+    /* margin-top: 40px; */
+}
+/* failure list starts */
+.container-one{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 60px;
+    justify-content:space-between;
+}
+.section-one{
+    padding: 15px;
+}
+.failureh3{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.failureP{
+    font-size: 12px ;
+    margin-bottom: 20px;
+}
+.unorder-list{
+    font-size: 13px;
+    list-style-type:circle;
+}
+.image{
+    height: 550px;
+    width:450px;
+}
+
+/* failure list ends */
+
+/* My Plan styles */
+.container-two{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
+.title-two{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.skill-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.description{
+    text-align: center;
+    color: #707070;
+}
+
+/* My plans style ends */
