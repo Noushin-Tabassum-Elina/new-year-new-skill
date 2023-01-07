@@ -6,23 +6,26 @@
 .header{
     background-image: url(../images/banner/banner3.png);
     background-repeat: no-repeat;
-    padding: 100px;
-    background-size: contain;
-    
+    padding: 80px;
+    height: 800px;
+    width: 1100px;
 }
 .banner{
     text-align: right;
     right: 20px;
     top: 8px;
+    padding-left: 750px;
+    padding-top: 120px;
     
 }
 .headerh1{
     color:aliceblue;
-    font-size: 55px;
+    font-size: 50px;
     padding-top: 30px;
 }
 
 .headerP{
+    font-size: 13px;
     margin-top: 30px;
     color: aliceblue;
 }
@@ -33,7 +36,8 @@
     margin-top: 30px;
     border: none;
     border-radius: 5px;
-    padding: 20px;
+    padding: 15px;
+    font-size: 15px;
 }
 /* header style ends */
 
@@ -64,8 +68,12 @@
 }
 .unorder-list{
     font-size: 13px;
-    list-style-type:circle;
+    list-style-type: none;
 }
+.material-symbols-outlined{
+    color: rgb(65, 196, 65);
+}
+
 .image{
     height: 550px;
     width:450px;
@@ -139,7 +147,7 @@
 .container{
     display: flex;
     gap: 15px;
-    box-shadow: #707070;
+    box-shadow: 0px 6px 20px rgba(133, 14, 14, 0.06);
     justify-content: center;
 }
 
@@ -148,8 +156,6 @@
     width: 300px;
     background:  rgba(79, 157, 166, 0.1);
     padding: 5px 10px;
-    box-shadow: #707070;
-
 }
 .contain2{
     height: 300px;
